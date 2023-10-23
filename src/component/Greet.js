@@ -3,3 +3,4 @@ function Greet()
 {
     return "Hello Milka"
 }
+export default Greet
