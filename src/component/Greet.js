@@ -1,6 +1,6 @@
-import react from react
+import React from 'react';
 function Greet()
 {
-    return "Hello Milka"
+    return <h1>Hello Milka</h1>
 }
-export default Greet
+export default Greet;
